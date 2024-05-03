@@ -1,0 +1,1 @@
+# GSOC-24-Speech-and-Language-Processing-for-a-multimodal-corpus-of-Farsi
